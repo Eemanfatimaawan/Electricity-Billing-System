@@ -1,4 +1,5 @@
-📘 Smart Billing Control System – README
+📘 Smart Billing Control System 
+
 💡 Overview
 The Smart Billing Control System is a C++ console application designed to calculate and suggest improvements for monthly electricity usage. It supports both residential and commercial users, including those with solar panels, and provides:
 
